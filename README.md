@@ -32,12 +32,15 @@ I enjoy building practical software products and exploring how **AI, data, web t
 
 `Firebase` · `Supabase` · `Vercel` · `Git` · `GitHub` · `VS Code`
 
-## What I'm Building
+## Featured Project
 
-### Hospital Bed Allocation System
-A project focused on improving hospital resource allocation through a structured software solution.
+### [Hospital Bed Allocation System](https://github.com/SrinikAlle/Hospital-bed-allocation-)
+
+A Java-based academic project focused on organizing hospital bed information and supporting clearer allocation decisions.
 
 **Focus:** Java · Data Handling · Visualization · Problem Solving
+
+## What I'm Building Next
 
 ### Mobile Applications
 Cross-platform applications built with Flutter and Dart, with a focus on clean interfaces and practical functionality.

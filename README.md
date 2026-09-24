@@ -34,7 +34,7 @@ I enjoy building practical software products and exploring how **AI, data, web t
 
 ## Featured Project
 
-### [Hospital Bed Allocation System](https://github.com/SrinikAlle/Hospital-bed-allocation-)
+### [Hospital Bed Allocation System](https://github.com/SrinikAlle/hospital-bed-allocation-system)
 
 A Java-based academic project focused on organizing hospital bed information and supporting clearer allocation decisions.
 

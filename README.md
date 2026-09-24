@@ -26,7 +26,7 @@ I enjoy building practical software products and exploring how **AI, data, web t
 
 **Data & AI**
 
-`Pandas` · `NumPy` · `Data Visualization` · `Machine Learning`
+`Pandas` · `NumPy` · `scikit-learn` · `Plotly` · `Streamlit`
 
 **Platforms & Tools**
 
@@ -46,14 +46,16 @@ A Flutter student-productivity app with an academic dashboard, assignment tracki
 
 **Focus:** Flutter · Dart · Firebase · Mobile App Development
 
+### [StudyScope AI](https://github.com/SrinikAlle/studyscope-ai)
+
+A Python + Streamlit Data Science project combining exploratory data analysis, interactive visualizations, synthetic student-performance data, and a logistic-regression ML pipeline.
+
+**Focus:** Python · Pandas · scikit-learn · Plotly · Streamlit
+
 ## What I'm Building Next
 
-### AI & Data Projects
-Projects involving data analysis, visualization, machine learning, and AI-powered applications.
-
-**Focus:** Python · Data Science · Artificial Intelligence
-
 ### Automation & AI Agents
+
 Experiments with APIs, workflow automation, and AI agents designed to automate practical tasks.
 
 **Focus:** APIs · Automation · AI Agents

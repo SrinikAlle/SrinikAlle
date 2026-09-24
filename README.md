@@ -32,7 +32,7 @@ I enjoy building practical software products and exploring how **AI, data, web t
 
 `Firebase` · `Supabase` · `Vercel` · `Git` · `GitHub` · `VS Code`
 
-## Featured Project
+## Featured Projects
 
 ### [Hospital Bed Allocation System](https://github.com/SrinikAlle/hospital-bed-allocation-system)
 
@@ -40,12 +40,13 @@ A React + TypeScript dashboard demonstrating CSP-inspired hospital bed allocatio
 
 **Focus:** React · TypeScript · Constraint Satisfaction · UI Development
 
+### [CampusFlow](https://github.com/SrinikAlle/campusflow-flutter)
+
+A Flutter student-productivity app with an academic dashboard, assignment tracking, attendance monitoring, notes, a focus timer, and Firebase-ready architecture.
+
+**Focus:** Flutter · Dart · Firebase · Mobile App Development
+
 ## What I'm Building Next
-
-### Mobile Applications
-Cross-platform applications built with Flutter and Dart, with a focus on clean interfaces and practical functionality.
-
-**Focus:** Flutter · Dart · Firebase
 
 ### AI & Data Projects
 Projects involving data analysis, visualization, machine learning, and AI-powered applications.

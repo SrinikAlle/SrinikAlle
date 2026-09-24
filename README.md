@@ -36,9 +36,9 @@ I enjoy building practical software products and exploring how **AI, data, web t
 
 ### [Hospital Bed Allocation System](https://github.com/SrinikAlle/hospital-bed-allocation-system)
 
-A Java-based academic project focused on organizing hospital bed information and supporting clearer allocation decisions.
+A React + TypeScript dashboard demonstrating CSP-inspired hospital bed allocation with patient registration, live bed tracking, and rule-based matching.
 
-**Focus:** Java · Data Handling · Visualization · Problem Solving
+**Focus:** React · TypeScript · Constraint Satisfaction · UI Development
 
 ## What I'm Building Next
 
